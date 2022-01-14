@@ -1,3 +1,3 @@
-# face-mask-detector-based-on-mobilenetv2
+# face-mask-detection-based-on-mobilenetv2
 
 ## In progress...
