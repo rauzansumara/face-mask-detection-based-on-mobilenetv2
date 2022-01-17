@@ -49,7 +49,7 @@ we provided two examples of images to evaluate the model. After running the mode
 
 <img src="ttps://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/no_mask.png" width="500">
 
-<img src="ttps://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/demo.gif" width="500">
+<gif src="ttps://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/demo.gif" width="500">
 
 # ![](https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/demo.gif)  
 
