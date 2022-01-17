@@ -28,7 +28,7 @@ As for the face mask detector method, this work implemented the convolutional ne
 ## Experimental Results
 We conducted our experiment using python programming language. You can see that the validation loss and validation accuracy both are in sync with the training loss and training accuracy. The training and validation loss are decreasing and there is not much gap between training and validation accuracy. It shows that our model is not overfitting:
 
-![](https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/training.png)
+<img src="https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/training.png" width="500">
 
 - Import a HTML file and watch it magically convert to Markdown
 - Drag and drop images (requires your Dropbox account be linked)
@@ -45,13 +45,12 @@ we provided two examples of images to evaluate the model. After running the mode
 
 ## Implement Model on Real-Time Video
 
-<img src="https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/mask.png" width="400" height="400">
+<img src="https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/mask.png" width="500">
 
-<img src="https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/no_mask.png" width="400" height="400">
+<img src="https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/no_mask.png" width="500">
 
-<img src="https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/demo.gif" width="400" height="400">
+<img src="https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/demo.gif" width="500">
 
-![](https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/demo.gif)  
 
 ## Implement Model on Based-Android Application
 In this case of implementing our model on based-android app, we need to implement the two steps detection. Most of the work will consist in splitting the detection, first the face detection and second the mask detection. For the face detection step, we are going to use the Google ML kit. For the mask detection, we are going to use our model. First thing to do is using TocoConverter python class to migrate from the Keras .h5 format model to the TensorFlow Lite .tflite format model. It’s amazing how easy a high-level deep learning model can be ported to format suitable for mobile, simply by executing one line of code. The model was created in previous section, producing a ‘.h5’ file of about 11.2 MB. After TensorFlow Lite conversion, the resulting file is very light-weight only 9.2 MB, really good for a mobile application. Here is the example of the working app on my Phone (Android Version 6.0.1).
@@ -59,5 +58,3 @@ In this case of implementing our model on based-android app, we need to implemen
 <img src="https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/app_images1.png" width="400">
 
 <img src="https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/app_images2.png" width="400">
-
-
