@@ -39,14 +39,17 @@ We conducted our experiment using python programming language. You can see that 
 ## Implement Model on Selected instances of Images
 we provided two examples of images to evaluate the model. After running the model following results were obtained:
 
+<img src="https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/example1_mask.png" width="500">
 
-<img src="https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/example1_mask.png" width="400">
-<img src="https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/example2_mask.png" width="400">
+<img src="https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/example2_mask.png" width="500">
 
 ## Implement Model on Real-Time Video
-![](https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/mask.png) 
 
-![](https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/no_mask.png) 
+<img src="ttps://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/mask.png" width="500">
+
+<img src="ttps://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/no_mask.png" width="500">
+
+<img src="ttps://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/demo.gif" width="500">
 
 ![](https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/demo.gif)  
 
