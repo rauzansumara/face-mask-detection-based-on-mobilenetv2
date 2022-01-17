@@ -39,7 +39,7 @@ We conducted our experiment using python programming language. You can see that 
 ## Implement Model on Selected instances of Images
 we provided two examples of images to evaluate the model. After running the model following results were obtained:
 
-![](https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/example1_mask.png)
+![](https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/example1_mask.png=600x500)
 
 ![](https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/example2_mask.png) 
 
