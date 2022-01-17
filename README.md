@@ -45,9 +45,11 @@ we provided two examples of images to evaluate the model. After running the mode
 
 ## Implement Model on Real-Time Video
 
-<img src="ttps://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/mask.png" width="400" height="400">
+<img src="https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/mask.png" width="400" height="400">
 
-<img src="ttps://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/no_mask.png" width="400" height="400">
+<img src="https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/no_mask.png" width="400" height="400">
+
+<img src="https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/demo.gif" width="400" height="400">
 
 ![](https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/demo.gif)  
 
