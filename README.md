@@ -30,12 +30,6 @@ We conducted our experiment using python programming language. You can see that 
 
 <img src="https://raw.githubusercontent.com/rauzansumara/face-mask-detection-based-on-mobilenetv2/master/images/training.png" width="500">
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
-
 ## Implement Model on Selected instances of Images
 we provided two examples of images to evaluate the model. After running the model following results were obtained:
 
